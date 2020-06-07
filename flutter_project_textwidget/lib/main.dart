@@ -19,7 +19,8 @@ class MyApp extends StatelessWidget{
               style: TextStyle(
                 color:Color.fromARGB(255, 255, 150, 150),
                 decoration: TextDecoration.underline,
-                decorationStyle: TextDecorationStyle.solid
+                decorationStyle: TextDecorationStyle.solid,
+                fontSize: 30.0
               ),
             ),
           ),
